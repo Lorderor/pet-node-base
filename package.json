@@ -1,0 +1,24 @@
+{
+  "name": "pet-node-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorderor/pet-node-base.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lorderor/pet-node-base/issues"
+  },
+  "homepage": "https://github.com/Lorderor/pet-node-base#readme",
+  "devDependencies": {
+    "nodemon": "3.1.10"
+  }
+}
